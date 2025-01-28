@@ -4,3 +4,5 @@ Dans ce projet, l'objectif est de prédire si une personne est atteinte de diab�
 - Niveau d'insuline  
 - Âge  
 - IMC (Indice de Masse Corporelle)  
+ KAGGLE : https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes
+
